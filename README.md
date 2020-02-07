@@ -106,7 +106,7 @@ OPEN
 
 ## Part II : the frontend
 
-### Create a Template, then __Create discovery rule__
+### Create a Template then __Create discovery rule__
 
 ![myimage-alt-tag](discovery.png)
 
@@ -121,7 +121,7 @@ OPEN
 ![myimage-alt-tag](triggers.png)
 
 
-Done. Apply to hosts, wait until discovery runs
+Done. Apply to hosts, wait until discovery runs.
 
 
 __Tip:__ You can use the same logic to discover other stuff.
