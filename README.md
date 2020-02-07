@@ -106,17 +106,17 @@ OPEN
 
 ## Part II : the frontend
 
-Create a Template , and then __Create discovery rule__
+### Create a Template, then __Create discovery rule__
 
 ![myimage-alt-tag](discovery.png)
 
-__Create item prototypes__ for front/backends
+### __Create item prototypes__ for front/backends
 
 ![myimage-alt-tag](frontend.png)
 
 ![myimage-alt-tag](backend.png)
 
-__Create trigger prototypes__
+### __Create trigger prototypes__
 
 ![myimage-alt-tag](triggers.png)
 
