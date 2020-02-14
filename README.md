@@ -52,6 +52,10 @@ echo "]"
 echo "}"
 ```
 
+Note: Do not use the following strings on your back/frontends.
+
+'FRONTEND|BACKEND|svname|pxname'
+
 ### 2 - Put in crontab
 
 ``` bash
