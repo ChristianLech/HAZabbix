@@ -52,7 +52,7 @@ echo "]"
 echo "}"
 ```
 
-Note: Do not use the following strings on your back/frontends.
+__Note:__ Do not use the following strings on your front/backends names on your HAProxy configuration.
 
 'FRONTEND|BACKEND|svname|pxname'
 
